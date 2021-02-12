@@ -1,4 +1,4 @@
-def switch_analogue(dice_choice):
+""" def switch_analogue(dice_choice):
     switcher = {
         "D2" : "2",
         "D4" : "4",
@@ -15,4 +15,4 @@ print(switch_analogue("D20"))
 
 print (switch_analogue("D4"))
 
-print(switch_analogue("D33"))
+print(switch_analogue("D33")) """
